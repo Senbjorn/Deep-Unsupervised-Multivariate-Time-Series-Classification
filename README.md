@@ -1,5 +1,5 @@
 # Deep Unsupervised Multivariate Time Series Classification
-**Maxim Lunitsin   Vadim Selyutin   Semyon Glushkov   Vladislav Zhuzhel   Liliya Mironova   Kirill Pavlenko**
+**Maxim Lunitsin, Vadim Selyutin, Semyon Glushkov, Vladislav Zhuzhel, Liliya Mironova, Kirill Pavlenko**
 
 ## Abstract
 Time-series techniques are valuable tools to solve many real-world problems, with classification being a crucial one. In the literature, there are well-established solutions for the supervised setting. However, few entries deal with classification in an unsupervised manner. Similarly, the field of unsupervised classification of time series using deep learning methods remains mostly unexplored. In this work, we propose a method to build a deep learning model for unsupervised time series classification and compare its performance with existing approaches from the supervised and unsupervised literature.
